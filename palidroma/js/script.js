@@ -31,5 +31,5 @@ function palinDrome() {
 
 }
 
-  //avvio la funzione
+//avvio la funzione
  palinDrome();
